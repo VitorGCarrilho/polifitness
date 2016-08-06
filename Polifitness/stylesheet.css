@@ -1,0 +1,23 @@
+body {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+}
+
+footer.page-footer{
+	flex: 1 0 auto;
+	background-color: #800000;
+}
+nav{
+	background-color: #800000;
+}
+h1{
+	color:white;
+	text-align: center;
+	font-family: sans-serif;
+}
+
+div.parallax{
+	max-height: 100pt;	
+}
+
